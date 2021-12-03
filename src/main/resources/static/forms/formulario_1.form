@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Registro de Usuario",
+      "type": "text",
+      "id": "Field_0l6hlqh"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_0k79vrm",
+      "key": "nombre"
+    },
+    {
+      "label": "Apellido",
+      "type": "textfield",
+      "id": "Field_05cp6jn",
+      "key": "apellido"
+    },
+    {
+      "label": "identificacion",
+      "type": "textfield",
+      "id": "Field_1vg30xe",
+      "key": "identificacion"
+    },
+    {
+      "values": [
+        {
+          "label": "monoplaza",
+          "value": "monoplaza"
+        },
+        {
+          "label": "sedan",
+          "value": "sedan"
+        },
+        {
+          "value": "suburbanMini",
+          "label": "suburbanMini"
+        },
+        {
+          "value": "suburbanPlus",
+          "label": "suburbanPlus"
+        },
+        {
+          "value": "suburbanHeavy",
+          "label": "suburbanHeavy"
+        }
+      ],
+      "label": "Modelo de Vehiculo",
+      "type": "select",
+      "id": "Field_0fnfc08",
+      "key": "tipo"
+    }
+  ],
+  "type": "default",
+  "id": "Formulario_1"
+}

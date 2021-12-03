@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Registro de Subasta",
+      "type": "text",
+      "id": "Field_0l6hlqh"
+    },
+    {
+      "label": "monto",
+      "type": "number",
+      "id": "Field_19cxwmz",
+      "key": "monto"
+    }
+  ],
+  "type": "default",
+  "id": "Formulario_2"
+}
